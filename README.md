@@ -8,4 +8,4 @@
 
 Решение со скором 1.33, 71 место/402.
 
-<img src = 'https://dropmefiles.com/quaOT'>
+<img src = 'https://drop5.dropmefiles.com/preview/quaOT/689477303'>
