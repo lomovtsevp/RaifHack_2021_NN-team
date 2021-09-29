@@ -8,4 +8,4 @@
 
 Решение со скором 1.33, 71 место/402.
 
-![Лидерборд](https://github.com/lompas10/RaifHack_2021_NN-team/raw/master/LeaderBoard/NN_team_71.png)
+![Лидерборд](https://github.com/lompas10/RaifHack_2021_NN-team/raw/main/LeaderBoard/NN_team_71.png)
