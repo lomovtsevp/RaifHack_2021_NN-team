@@ -4,5 +4,8 @@
 
 
 РЕШЕНИЕ БЫЛО ПРОИЗВЕДЕНО С ПОМОЩЬЮ CATBOOSTREGRESSOR.
+<img src = 'https://miro.medium.com/max/1200/1*iEO6b3roCesXxI0vkx9IPg.png'>
 
 Решение со скором 1.33, 71 место/402.
+
+<img src = 'https://cloud.mail.ru/public/AyE3/PjxMrde99'>
